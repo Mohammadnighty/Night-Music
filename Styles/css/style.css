@@ -87,6 +87,10 @@ SVG Icons - svgicons.sparkk.fr
   width: 220px;
   height: 220px;
 }
+.content img:hover {
+  opacity: 0.75;
+  transition: all 300ms ease-out;
+}
 
 .content {
   display: grid;
